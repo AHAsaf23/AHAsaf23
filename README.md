@@ -24,7 +24,7 @@ I'm a **Computer Engineering** student at Ruppin Academic Center, passionate abo
 
 <br/>
 
-### 📊 GitHub Stats
-![Asaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AHAsaf23&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AHAsaf23&layout=compact&theme=radical)
+<!-- GitHub Stats Card -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AHAsaf23&show_icons=true&theme=radical" alt="Asaf's GitHub Stats" />
+</div>
