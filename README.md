@@ -22,6 +22,8 @@ I'm a **Computer Engineering** student at Ruppin Academic Center, passionate abo
 * **LinkedIn:** [www.linkedin.com/in/asaf-hayon-07a34a333]
 * **Email:** [hayonasaf@gmail.com]
 
+  ![3D GitHub Profile](profile-3d-contrib/profile-green-animate.svg)
+
 <br/>
 
 <!-- GitHub Stats Card -->
