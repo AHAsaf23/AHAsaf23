@@ -6,7 +6,7 @@ I'm a **Computer Engineering** student at Ruppin Academic Center, passionate abo
 * **Languages:** Java, C, C++, Python, MIPS Assembly
 * **Hardware Design:** VHDL, Verilog, Quartus (Altera/Intel FPGA, Terasic DE0)
 * **Engineering & Data:** MATLAB, Simulink, NumPy, Matplotlib, SymPy
-* **IDEs & Workflow:** IntelliJ IDEA, CLion, Eclipse, Git, Notion
+* **IDEs & Workflow:** Pycharm, Clion, IntelliJ IDEA, CLion, Eclipse, Git, Notion
 
 ### 🚀 What I do
 * 💻 Developing OOP applications with practical real-world uses (like household task management and car-sharing systems).
