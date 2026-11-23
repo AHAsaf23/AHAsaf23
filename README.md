@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=180&section=header&text=Asaf%20Hayon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Hardware%20%26%20Software%20Design&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2ea043&height=180&section=header&text=Asaf%20Hayon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Hardware%20and%20Software%20Design&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 ### 👋 About Me
