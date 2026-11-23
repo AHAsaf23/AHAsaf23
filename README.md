@@ -6,7 +6,7 @@ I'm a **Computer Engineering** student at Ruppin Academic Center, passionate abo
 * **Languages:** Java, C, C++, Python, MIPS Assembly
 * **Hardware Design:** VHDL, Verilog, Quartus (Altera/Intel FPGA, Terasic DE0)
 * **Engineering & Data:** MATLAB, Simulink, NumPy, Matplotlib, SymPy
-* **IDEs & Workflow:** Pycharm, Clion, IntelliJ IDEA, CLion, Eclipse, Git, Notion
+* **IDEs & Workflow:** Pycharm, Clion, IntelliJ IDEA, Eclipse, Git, Notion
 
 ### 🚀 What I do
 * 💻 Developing OOP applications with practical real-world uses (like household task management and car-sharing systems).
@@ -19,8 +19,9 @@ I'm a **Computer Engineering** student at Ruppin Academic Center, passionate abo
 * 🎮 I enjoy tactical gameplay, whether it's a match of CS2 or climbing the ladder in Clash Royale.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [www.linkedin.com/in/asaf-hayon-07a34a333]
-* **Email:** [hayonasaf@gmail.com]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaf-hayon-07a34a333)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayonasaf@gmail.com)
 
   ![3D GitHub Profile](profile-3d-contrib/profile-green-animate.svg)
 
